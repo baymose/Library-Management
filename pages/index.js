@@ -9,7 +9,7 @@ export default function Home() {
     <App>
       <Style>
         <Head>
-          <title>Library Managment System</title>
+          <title>Library Management System</title>
           <link rel="icon" href="/favicon.ico" />
         </Head>
         <div class="table-container">
